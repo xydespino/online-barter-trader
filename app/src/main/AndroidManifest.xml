@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ca.dal.cs.onlinebartertrader">
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.OnlineBarterTrader">
+        <activity android:name=".StartActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".HomePages.HomePageActivity">
+        </activity>
+        <activity android:name=".HomePages.SearchPageActivity">
+        </activity>
+        <activity android:name=".LoginRegisterPages.RegistrationActivity">
+        </activity>
+        <activity android:name=".ProfilePages.ProfileActivity">
+        </activity>
+        <activity android:name=".PostPages.CreatePostActivity">
+        </activity>
+        <activity android:name=".ProfilePages.PreferenceActivity">
+        </activity>
+        <activity android:name=".PostPages.MyPostsActivity">
+        </activity>
+        <activity android:name=".PostPages.EditPostActivity">
+        </activity>
+        <activity android:name=".MessagePages.ChatActivity">
+        </activity>
+        <activity android:name=".MessagePages.MessagesActivity">
+        </activity>
+        <activity android:name=".ProfilePages.EditProfileActivity">
+        </activity>
+        <activity android:name=".PostPages.ViewPostActivity">
+        </activity>
+        <activity android:name=".PostPages.OtherUserPostsActivity">
+        </activity>
+        <activity android:name=".PostPages.SavedPostsActivity">
+        </activity>
+    </application>
+
+</manifest>

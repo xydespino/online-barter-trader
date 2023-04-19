@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories_array">
+        <item>Select Category</item>
+        <item>Arts</item>
+        <item>Audio</item>
+        <item>Baby Items</item>
+        <item>Books</item>
+        <item>Cameras</item>
+        <item>CDs, DVDs, &amp; Blu-ray</item>
+        <item>Clothing</item>
+        <item>Computers</item>
+        <item>Electronics</item>
+        <item>Furniture</item>
+        <item>Appliances</item>
+        <item>Home</item>
+        <item>Outdoor &amp; Garden</item>
+        <item>Jewellery &amp; Watches</item>
+        <item>Musical Instruments</item>
+        <item>Phones</item>
+        <item>Sports Goods</item>
+        <item>Tools</item>
+        <item>Toys &amp; Games</item>
+        <item>Video Games &amp; Consoles</item>
+        <item>Other</item>
+    </string-array>
+</resources>

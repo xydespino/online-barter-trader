@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuhome"
+        android:icon="@drawable/home_ic"
+        android:title="@string/home"/>
+    <item android:id="@+id/menuitems"
+        android:icon="@drawable/yourpost_ic"
+        android:title="@string/your_items"/>
+    <item android:id="@+id/menupost"
+        android:icon="@drawable/post_ic"
+        android:title="@string/new_post"/>
+    <item android:id="@+id/menusaved"
+        android:icon="@drawable/saved_ic"
+        android:title="@string/saved"/>
+    <item android:id="@+id/menumessages"
+        android:icon="@drawable/message_ic"
+        android:title="@string/messages"/>
+</menu>
