@@ -2,6 +2,7 @@
 
 Online Barter Trader is an Android app that provides a platform for people to trade their used goods and items.
 This project was done in Winter 2021
+
 Home Page:
 ![Online Barter Trader Home PAge](https://user-images.githubusercontent.com/101380933/233291678-2a8ca016-d975-4965-b190-499537828c35.png)
 
